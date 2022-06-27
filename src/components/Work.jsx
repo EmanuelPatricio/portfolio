@@ -21,7 +21,7 @@ const Work = () => {
             <div className="bg-[#05152E]">
               <h3 className="px-6 py-5 text-center font-bold text-xl mb-2">Budget App</h3>
               <div className="grid grid-cols-2 gap-5 justify-center px-9 pt-3 pb-2 text-center">
-                <a href="https://emanuelpatricio.github.io/budget-app/" className="inline-block bg-gray-200 rounded-lg px-2 py-4 text-md font-semibold text-gray-700 mr-2 mb-2" target="_blank" rel="noreferrer">Demo</a>
+                <a href="https://budgetapp-aa4cf.web.app/" className="inline-block bg-gray-200 rounded-lg px-2 py-4 text-md font-semibold text-gray-700 mr-2 mb-2" target="_blank" rel="noreferrer">Demo</a>
                 <a href="https://github.com/EmanuelPatricio/budget-app" className="inline-block bg-gray-200 rounded-lg px-2 py-4 text-md font-semibold text-gray-700 mr-2 mb-2" target="_blank" rel="noreferrer">Code</a>
               </div>
             </div>
@@ -32,7 +32,7 @@ const Work = () => {
             <div className="bg-[#05152E]">
               <h3 className="px-6 py-5 text-center font-bold text-xl mb-2">Recipe App</h3>
               <div className="grid grid-cols-2 gap-5 justify-center px-9 pt-3 pb-2 text-center">
-                <a href="https://emanuelpatricio.github.io/recipe-app/" className="inline-block bg-gray-200 rounded-lg px-2 py-4 text-md font-semibold text-gray-700 mr-2 mb-2" target="_blank" rel="noreferrer">Demo</a>
+                <a href="https://recipe-app-1a2ca.web.app/" className="inline-block bg-gray-200 rounded-lg px-2 py-4 text-md font-semibold text-gray-700 mr-2 mb-2" target="_blank" rel="noreferrer">Demo</a>
                 <a href="https://github.com/EmanuelPatricio/recipe-app" className="inline-block bg-gray-200 rounded-lg px-2 py-4 text-md font-semibold text-gray-700 mr-2 mb-2" target="_blank" rel="noreferrer">Code</a>
               </div>
             </div>
